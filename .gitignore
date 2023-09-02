@@ -1,18 +1,5 @@
-# Binary directory
-*build*
-
-# VSCode
-.vscode/.cortex-debug*
-
-# CLion
-.idea/
-
-# MDK-ARM
-.MDK-ARM
 *DebugConfig*
-*RTE*
 *uvguix*
-
 *.o
 *.d
 *.hex
