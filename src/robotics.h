@@ -17,7 +17,7 @@
 #ifndef ROBOTICS_H
 #define ROBOTICS_H
 
-#include "math.h"
+#include "utils.h"
 #include "matrix.h"
 
 namespace robotics {
